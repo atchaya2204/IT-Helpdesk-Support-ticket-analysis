@@ -82,8 +82,7 @@ This dashboard enables IT support teams to:
 ---
 
 ## 📸 Dashboard Preview
-![IT Helpdesk Support Ticket Analysis Dashboard]<img width="1104" height="625" alt="Dashboard for project" src="https://github.com/user-attachments/assets/6f0c6f82-76c2-4ab6-8895-a04db0bf3342" />
-
+![IT Helpdesk Support Ticket Analysis Dashboard]"C:\Users\nagaa\OneDrive\Pictures\Screenshots\Dashboard for project.png"
 
 ---
 
