@@ -92,9 +92,10 @@ This dashboard enables IT support teams to:
 ---
 
 ## 📁 Repository Contents
-- IT Helpdesk Support Ticket Analysis Dashboard.pbix – Power BI dashboard file
 - Dashboard for project.png – Dashboard preview image
+- Dataset.xlsx - Dataset Excel file
 - README.md – Project documentation
+- project.pbix - Project file
 
 ---
 
