@@ -80,9 +80,7 @@ This dashboard enables IT support teams to:
 - Enhance overall service quality
 
 ---
-
-## 📸 Dashboard Preview
-IT Helpdesk Support Ticket Analysis Dashboard
+ 
 ---
 
 ## 📌 How to Use
