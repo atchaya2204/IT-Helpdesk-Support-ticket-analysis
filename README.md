@@ -59,6 +59,7 @@ The dataset used for this dashboard contains the following fields:
 - *Power BI*
 - *DAX (Data Analysis Expressions)*
 - *Microsoft Excel / CSV* for dataset preparation
+- *Power query*
 
 ---
 
