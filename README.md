@@ -1,76 +1,103 @@
 # 📊 IT Helpdesk Support Ticket Analysis Dashboard (Power BI)
 
 ## 📌 Overview
-This project presents an interactive Power BI dashboard designed to analyze IT helpdesk support tickets. It focuses on improving operational efficiency and service quality by providing insights into ticket handling, resolution performance, and SLA compliance.
+This project showcases an interactive *Power BI dashboard* built to analyze IT helpdesk support tickets. It provides a clear view of ticket volumes, resolution progress, SLA compliance, and support performance across employees, categories, priorities, and channels.
+
+The dashboard is designed to help IT teams and stakeholders monitor service desk efficiency, detect recurring problem areas, and improve decision-making with data-driven insights.
 
 ---
 
 ## 🎯 Objectives
-- Monitor overall ticket volume and performance  
-- Track high-priority and critical issues  
-- Analyze resolution efficiency and delays  
-- Identify SLA breaches and improve response time  
-- Support data-driven decision-making  
+- Monitor total, resolved, and open tickets
+- Track ticket distribution by priority and category
+- Measure employee-wise resolution performance
+- Identify SLA breaches across support categories
+- Analyze ticket inflow trends by month
+- Understand customer support channels usage
 
 ---
 
 ## 📂 Dataset
-The dataset includes:
-- Ticket ID  
-- Date  
-- Priority (High, Medium, Low)  
-- Status (Open, Resolved, Closed)  
-- Category (Network, Software, Hardware, etc.)  
-- Assigned To  
-- Resolution Time (hrs)  
-- SLA (hrs)  
-- SLA Breach (Yes/No)  
-- Severity  
-- Customer & Channel  
+The dataset used for this dashboard contains the following fields:
+
+- *Ticket ID*
+- *Date*
+- *Priority* (High, Medium, Low)
+- *Status* (Open, Resolved, Closed)
+- *Category* (Login, Network, Hardware, Software, Security, Server)
+- *Assigned Employee*
+- *Resolution Time*
+- *SLA Breach* (Yes/No)
+- *Support Channel* (Call, Email, Portal)
 
 ---
 
 ## 📊 Dashboard Features
-- **KPI Cards**: Total Tickets, Resolved, Open, SLA Breach %  
-- **Trend Analysis**: Ticket volume over time  
-- **Category & Priority Analysis**  
-- **Employee Performance Analysis**  
-- **SLA Monitoring**  
-- **Interactive Filters (Slicers)**  
+- *KPI Cards*
+  - Total Tickets
+  - Resolved Tickets
+  - Open Tickets
+  - Average Resolution Time
+
+- *Visual Insights*
+  - Tickets by Priority
+  - Tickets by Channel
+  - Tickets by Category
+  - Tickets by Month
+  - Resolution Time by Employee
+  - SLA Breach by Category
+
+- *Interactive Slicers*
+  - Priority
+  - Category
+  - Status
+  - Date Range
 
 ---
 
 ## 🛠️ Tools & Technologies
-- Power BI  
-- DAX (Data Analysis Expressions)  
-- Microsoft Excel  
+- *Power BI*
+- *DAX (Data Analysis Expressions)*
+- *Microsoft Excel / CSV* for dataset preparation
 
 ---
 
 ## 📈 Key Insights
-- Identifies peak ticket periods  
-- Highlights categories with frequent issues  
-- Tracks SLA compliance and delays  
-- Evaluates team performance  
+- Medium-priority tickets form the largest share of support requests
+- Email and Call channels handle most of the incoming tickets
+- Some categories such as *Login* and *Server* show noticeable SLA breach counts
+- Employee performance can be compared through resolution time metrics
+- Monthly ticket trends help identify workload fluctuations
 
 ---
 
 ## 🚀 Outcome
-This dashboard helps stakeholders quickly identify problem areas, optimize resource allocation, and improve IT support efficiency.
+This dashboard enables IT support teams to:
+- Improve ticket handling efficiency
+- Monitor SLA adherence more effectively
+- Identify bottlenecks in support operations
+- Optimize team workload and performance
+- Enhance overall service quality
 
 ---
 
 ## 📸 Dashboard Preview
-_Add your dashboard screenshot here_
+![IT Helpdesk Support Ticket Analysis Dashboard](Dashboard%20for%20project.png)
 
 ---
 
 ## 📌 How to Use
-1. Download the `.pbix` file  
-2. Open it in Power BI Desktop  
-3. Use slicers to explore and analyze data  
+1. Download the .pbix file from this repository
+2. Open it using *Power BI Desktop*
+3. Interact with slicers to filter by priority, category, status, and date
+4. Explore ticket patterns, employee performance, and SLA compliance
 
 ---
 
-## ⭐ Author
-**Atchaya N**
+## 📁 Repository Contents
+- IT Helpdesk Support Ticket Analysis Dashboard.pbix – Power BI dashboard file
+- Dashboard for project.png – Dashboard preview image
+- README.md – Project documentation
+
+---
+
